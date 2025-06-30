@@ -129,7 +129,7 @@ model = load_model("models/federated_diabetes_model.keras")
 
 ## 📬 Author
 
-**Sameer Raj** – Developer, researcher, and AI enthusiast.
+**PRIYAM , SAMEER ** – Developer, researcher, and AI enthusiast.
 
 ---
 
